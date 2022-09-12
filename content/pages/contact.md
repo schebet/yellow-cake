@@ -1,27 +1,21 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Kontakt stranica
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+subtitle: podaci o Đorić Nenadu
+address: Dr.Milutina Ivkovića  4/21 Niš
+phone: "533226"
+email: djoricnenad@gmail.com
 locations:
   - mapLink: ""
     lat: "43.142129079701654"
     lng: "22.172164853423492"
+  - mapLink: ""
+    lat: 43.31773968895867,
+    lng: " 21.914063243287856"
 meta:
   description: This is a meta description.
   title: Contact Page
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+# Nenad Đorić
