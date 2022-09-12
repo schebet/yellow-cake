@@ -15,7 +15,7 @@ locations:
     lat: 43.31773968895867,
     lng: " 21.914063243287856"
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Opis
+  title: Kontakt stranica
 ---
 # Nenad Đorić
