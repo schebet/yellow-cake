@@ -8,12 +8,9 @@ address: 404 James St, Burleigh Heads QLD 4220
 phone: 0987 123 456
 email: example@example.com
 locations:
-  - lat: "-27.9654732"
-    lng: "153.2432449"
-    mapLink: ""
   - mapLink: ""
-    lat: "43.14233373443076, "
-    lng: "22.17272581377387"
+    lat: "43.142129079701654, "
+    lng: "22.172164853423492"
 meta:
   description: This is a meta description.
   title: Contact Page
