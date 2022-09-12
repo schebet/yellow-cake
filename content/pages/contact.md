@@ -9,7 +9,7 @@ phone: 0987 123 456
 email: example@example.com
 locations:
   - mapLink: ""
-    lat: "43.142129079701654, "
+    lat: "43.142129079701654"
     lng: "22.172164853423492"
 meta:
   description: This is a meta description.
