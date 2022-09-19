@@ -135,4 +135,4 @@ https://hooks.zapier.com/hooks/catch/2881617/ea5exg/
 - Give your Zap a name and make sure your zap is turned on
 - Submit your form one last time and see if all data is coming trough to MailChimp
 - That's it!
-- https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms
+- [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)] https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms
